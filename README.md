@@ -19,13 +19,17 @@
     <img src="https://img.shields.io/badge/BUY%20ME%20A%20COFFEE-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000" alt="Buy Me a Coffee">
   </a>
 
+  <a href="https://ko-fi.com/patrickisaway">
+    <img src="https://img.shields.io/badge/KO--FI-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi">
+  </a>
+
   <a href="https://www.nexusmods.com/profile/patrickisaway">
     <img src="./nexusmods-badge.svg" alt="Nexus Mods">
   </a>
 
   <a href="https://x.com/patrickisaway">
-  <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
-</a>
+    <img src="https://img.shields.io/badge/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
 
   <a href="https://bsky.app/profile/patrickisaway.bsky.social">
     <img src="https://img.shields.io/badge/BLUESKY-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky">
